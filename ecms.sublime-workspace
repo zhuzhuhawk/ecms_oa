@@ -1,0 +1,206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html5"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/wamp/www/ecms.sublime-project",
+		"/Y/xampp/htdocs/wx/Addons/Abcinfosend/install.sql",
+		"/D/素材/微信素材/昆仑华庭公寓Ⅱ-2座+_20150803143110.xml",
+		"/Y/xampp/htdocs/wx/Addons/Chat/Model/WeixinAddonModel.class.bak.php",
+		"/Y/xampp/htdocs/wx/Addons/Chat/Controller/ChatController.class.php",
+		"/Y/xampp/htdocs/wx/Addons/HelloKen/Model/WeixinAddonModel.class.php",
+		"/Y/xampp/htdocs/wx/Addons/Chat/ChatAddon.class.php",
+		"/Y/xampp/htdocs/wx/Addons/Chat/config.php",
+		"/D/wamp/www/Home/Home/Controller/UserController.class.php",
+		"/D/wamp/www/Home/Home/Conf/config.php",
+		"/D/wamp/www/Home/Home/Controller/IndexController.class.php",
+		"/D/wamp/www/Home/Home/View/Index/show.html",
+		"/D/wamp/www/Home/Common/Conf/config.php",
+		"/D/wamp/www/Home/Home/View/Index/index.html",
+		"/D/wamp/www/ThinkPHPa/Conf/convention.php",
+		"/D/wamp/www/ThinkPHPa/Common/functions.php",
+		"/D/wamp/www/Home/Common/Common/function.php",
+		"/D/wamp/www/Home/Runtime/Cache/Home/76fa5d91061b37f679ea44f50ab94989.php",
+		"/D/wamp/www/.htaccess",
+		"/D/wamp/www/index.php",
+		"/C/Users/Administrator/Desktop/aaa.html",
+		"/Y/xampp/htdocs/api/map.php",
+		"/C/Users/Administrator/Desktop/手机模版/cpts_48_eq/index.html",
+		"/D/wamp/www/cms/api/map.php",
+		"/Y/xampp/htdocs/zui/js/nnattawat-fixtop-3e09cab/index.html",
+		"/C/Users/Administrator/Desktop/新建文本文档.txt",
+		"/Y/xampp/htdocs/wx/Application/Home/View/default/Index/_head.html",
+		"/C/Users/Administrator/Desktop/13456.html",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/html5.sublime-snippet",
+		"/Y/xampp/htdocs/caches/configs/database.php",
+		"/C/Users/Administrator/Desktop/j.html",
+		"/D/wamp/www/map/index2.php",
+		"/D/wamp/www/map/index.php",
+		"/Y/xampp/htdocs/map/index.php",
+		"/Y/xampp/htdocs/phpcms/templates/jianjin/content/headermap.html",
+		"/D/wamp/www/house/register.php",
+		"/D/wamp/www/house/install/license.php",
+		"/D/wamp/www/house/include/general.inc.php",
+		"/D/wamp/www/house/index.php",
+		"/D/wamp/www/house/dynamic/cache/mconfigs.cac.php",
+		"/D/wamp/www/config.php",
+		"/D/wamp/www/map/index.html",
+		"/Y/xampp/htdocs/phpcms/templates/jianjin/content/show.html",
+		"/D/wamp/www/cms/phpcms/templates/default/content/show.html",
+		"/Y/xampp/htdocs/phpcms/libs/classes/mysql.class.php",
+		"/Y/xampp/htdocs/phpcms/libs/classes/http.class.php",
+		"/Y/xampp/htdocs/caches/configs/model_config.php",
+		"/Y/xampp/htdocs/phpcms/modules/formguide/formguide.php",
+		"/Y/xampp/htdocs/phpcms/modules/admin/database.php",
+		"/Y/xampp/htdocs/caches/configs/snda.php",
+		"/Y/xampp/htdocs/caches/configs/sub_config.php",
+		"/Y/xampp/htdocs/caches/caches_admin/caches_data/copyfrom.cache.php",
+		"/Y/xampp/htdocs/phpcms/plugin/weibo/plugin_admin.class.php",
+		"/Y/xampp/htdocs/caches/configs/credit.php",
+		"/Y/xampp/htdocs/caches/configs/system.php",
+		"/Y/xampp/htdocs/caches/caches_commons/caches_data/sitelist.cache.php",
+		"/Y/xampp/htdocs/caches/caches_commons/caches_data/common.cache.php",
+		"/D/素材/Code/amaze ui/widget.html",
+		"/Y/xampp/htdocs/phpcms/templates/jianjin/content/headera.html",
+		"/Y/xampp/htdocs/phpcms/templates/jianjin/content/list_job.zui.html",
+		"/D/素材/Code/dist/css/zui.css",
+		"/D/素材/Code/amaze ui/widget.basic.html",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"']);\n",
+			"}",
+			",\n",
+			"></",
+			"lngX",
+			"map"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true
+}
